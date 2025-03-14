@@ -28,7 +28,7 @@ Love reading, here's blog post: www.netlify.app/blog/deploy-your-astro-project-f
 
 ## Quick Setup + Deploy Option
 
-Click this button and it will help you create a new repo, create a new Netlify project, and deploy!
+Click this button and it will help you create a new repo, create a new Netlify project, and then deploy!
 
 [![Deploy to Netlify Button](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify-templates/astro-quickstart)
 
